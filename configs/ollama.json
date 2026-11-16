@@ -1,0 +1,16 @@
+{
+  "model": "qwen2.5:7b-instruct",
+  "host": "http://localhost:11434",
+  "seeds": [1, 2],
+  "condition": "mixed",
+  "llm": {"p_know": 0.55, "shortcut_fail": 0.15},
+  "env": {
+    "counts": {"person": 600, "company": 200, "city": 120, "country": 60, "bloc": 20},
+    "n_stages": 3,
+    "tasks_per_stage": 15,
+    "new_persons_per_stage": 20,
+    "focus_persons": 150,
+    "kg_missing": 0.08, "kg_conflict": 0.06, "text_missing": 0.15, "text_conflict": 0.06,
+    "feedback_rate": 0.3
+  }
+}

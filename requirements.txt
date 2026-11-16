@@ -1,0 +1,4 @@
+numpy>=1.26
+matplotlib>=3.8      # plots (optional)
+pytest>=8            # tests
+neo4j>=5             # optional: only for knowledge/neo4j_store.py

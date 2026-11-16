@@ -1,0 +1,13 @@
+[   354s] seed 1 llm_only           real success=0.0% plan_acc=73% (llm calls so far 79, cache hits 85)
+[   378s] seed 1 react              real success=0.0% plan_acc=73% (llm calls so far 121, cache hits 207)
+[   684s] seed 1 react_vector_rag   real success=20.0% plan_acc=73% (llm calls so far 212, cache hits 354)
+[   686s] seed 1 react_kg           real success=30.0% plan_acc=73% (llm calls so far 215, cache hits 485)
+[   703s] seed 1 trustkg_verify     real success=40.0% plan_acc=73% (llm calls so far 219, cache hits 622)
+[   703s] seed 1 trustkg_full       real success=40.0% plan_acc=73% (llm calls so far 219, cache hits 821)
+[  1105s] seed 2 llm_only           real success=0.0% plan_acc=60% (llm calls so far 315, cache hits 881)
+[  1121s] seed 2 react              real success=0.0% plan_acc=60% (llm calls so far 344, cache hits 1008)
+[  1364s] seed 2 react_vector_rag   real success=11.7% plan_acc=60% (llm calls so far 416, cache hits 1149)
+[  1367s] seed 2 react_kg           real success=28.3% plan_acc=60% (llm calls so far 420, cache hits 1277)
+[  1372s] seed 2 trustkg_verify     real success=36.7% plan_acc=60% (llm calls so far 421, cache hits 1413)
+[  1372s] seed 2 trustkg_full       real success=36.7% plan_acc=60% (llm calls so far 421, cache hits 1609)
+done in 1372s -> results/ollama/summary.md

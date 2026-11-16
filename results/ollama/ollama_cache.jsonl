@@ -1,0 +1,503 @@
+{"k": "4522aac365be8dc7bf48d5aa880c3e2bc31d1592", "v": "Person_0008 | works_for, headquartered_in, located_in"}
+{"k": "2a21e71e8b423395d609e9b8f2569ba41167395d", "v": "Person_0011 | works_for, headquarters_in_city_located_in_country, member_of"}
+{"k": "ba144842b58303cc50ecfe22457aa8494dc1e24e", "v": "Company_0094 | works_for, headquartered_in, located_in, member_of"}
+{"k": "6cecb3416bc7c2611198a561163a6685ccf3235c", "v": "Person_0032 | works_for, headquartered_in"}
+{"k": "403f53d360f52e3d6b44b021f10cdd28556ae571", "v": "Person_0036 | works_for, headquartered_in, located_in, member_of"}
+{"k": "f7ca35c6fd4faad7abc90c2f3d611c816b6f4b63", "v": "Person_0033 | works_for, headquarters_in"}
+{"k": "786e1d9afad40ea003e87701c5a29a3120eab8ff", "v": "City_0086 | located_in, member_of"}
+{"k": "4fb0bad709b58c8c8736c7811399a91c48885914", "v": "Person_0000 | works_for, headquartered_in, located_in"}
+{"k": "aff02051c4e2a6d5a0a996054c095f9edce811b2", "v": "Person_0118 | works_for, headquartered_in"}
+{"k": "5d0bd7421dc5d0dcbda10f06109093a3d613293b", "v": "Person_0013 | works_for, headquarters_in, located_in"}
+{"k": "6fe301416ef8929ce7e4eccad78e3d900ec9400a", "v": "Company_0177 | works_for, headquarters_in, located_in, member_of"}
+{"k": "e858c8a5c37e0528076c16de72141f1ce639f3c8", "v": "Company_0021 | headquartered_in, located_in"}
+{"k": "861a940f4b5ec215a7cece68934de292d186a045", "v": "Company_0000 | works_for, headquartered_in, located_in"}
+{"k": "22acb38f25a9c567572bfc6b202e0dca75dea89e", "v": "Company_0053 | works_for, headquartered_in, located_in"}
+{"k": "9e2ce6a9f02b7a75dc3029fa8bbd9ac9049b7833", "v": "Person_0122 | works_for, headquarters_in_city_located_in_country_member_of_bloc"}
+{"k": "e09c5afd204aba949ca263bf8d548fc9b7d387d6", "v": "Person_0100 | works_for, headquarters_in"}
+{"k": "ebfe67cbdd0e51eee30550f1459290b3aebfbd5e", "v": "Company_0112 | works_for, headquartered_in, located_in"}
+{"k": "644f7472e841c8d31e1bfc913ffe45c71001e74b", "v": "Person_0132 | works_for, headquarters_in"}
+{"k": "ca96eed720a9b4cd4f83d41841d337be78fe6087", "v": "Company_0100 | works_for, headquartered_in, located_in, member_of"}
+{"k": "dad06c28fd127ab8cf054165a6bf2bb8028800c4", "v": "City_0009 | located_in, member_of"}
+{"k": "63070fa1c7aa487a0f559c7220cb8573bf95329a", "v": "Person_0024 | works_for, headquarters_in"}
+{"k": "9eed81425149e3ce2ed714ccc8136cddc55e1ad9", "v": "Person_0014 | works_for, headquarters_in_city_located_in_country_member_of_bloc"}
+{"k": "51b4dc8369513b83096b2a12857a2918d7348f4f", "v": "Person_0121 | works_for, headquarters_in, located_in, member_of"}
+{"k": "ec7f5741525cc962510b01dca5b5924f22712bf2", "v": "Company_0173 | works_for, headquartered_in, located_in, member_of"}
+{"k": "38121edecf05d397b97bba5e5c3863f1487c9dca", "v": "Company_0087 | works_for, headquartered_in, located_in, member_of"}
+{"k": "1a3857f5e3610f6ebd6dd0e2abd3ed85cf711a46", "v": "Person_0008 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "3213432b5531e20cee190ce80676dd2178856a97", "v": "Person_0089 | works_for, headquartered_in"}
+{"k": "8faf6fe150365b5752f1eaa9144f1c784a5fa9f1", "v": "Company_0047 | headquartered_in, located_in"}
+{"k": "f0d7679c14de328ae9243b691ad7a10fb534aacd", "v": "Company_0117 | headquartered_in, located_in"}
+{"k": "4e0d29f189d63c4b1578dfe9f54502385635c263", "v": "Company_0179 | works_for, headquartered_in, located_in"}
+{"k": "0b3031fab3cf180a050c02374ff087c455b41d06", "v": "Person_0069 | works_for, headquartered_in, located_in"}
+{"k": "9a4fa48b68b87ef8b3ba6a1954df0b2e8a2c23da", "v": "Company_0036 | headquarters_in, located_in"}
+{"k": "5fef2f32075933cbbd06b7a800107a923bd97bb6", "v": "Person_0004 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "6cc70550a84a0d63c981ef543c29b50d7897fd2b", "v": "City_0004 | located_in, member_of"}
+{"k": "d96725022e7a234c1fed9499c5d049aac0c419ad", "v": "City_0113 | located_in, member_of"}
+{"k": "7d7639cfa408a3e4dcfc922411d33dadeb7c0083", "v": "Company_0096 | works_for, headquartered_in, located_in, member_of"}
+{"k": "fa4f335afdea0b469d5770fb0dad11a4fa84b130", "v": "Person_0090 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "24eb778e7ab6842432e2285c8a5d53e32588c85d", "v": "City_0084 | located_in, member_of"}
+{"k": "5ea3c1c463289a09fbe7c5382177e51eb1a7f6e1", "v": "Company_0050 | headquartered_in, located_in"}
+{"k": "944f499ab604e3929706ddea352e6a57025149c2", "v": "City_0045 | located_in, member_of"}
+{"k": "2a1c2600c7f3738e410544338423f3f8f4838f95", "v": "Person_0115 | works_for, headquartered_in, located_in"}
+{"k": "3126b2c2348cdf697d1e12a0a80c4cbd371bb025", "v": "UNKNOWN"}
+{"k": "755d79d79870b845a0c4428d198357a1de6c888d", "v": "Person_0002 | works_for, headquarters_in_city_located_in_country_member_of_bloc"}
+{"k": "b0fb5fe141a0e00b03e7f71692cea6dc8f832ce4", "v": "Person_0054 | works_for, headquarters_in"}
+{"k": "8b07cf7943f698a4532d9878f1fc3186094ce6fc", "v": "UNKNOWN"}
+{"k": "5f4ed31c4012402d898c88792396d24dd1a48d72", "v": "Company_0041 | works_for, headquartered_in, located_in, member_of"}
+{"k": "e1fba47282124a65bca6b23f00c65f847f409481", "v": "Person_0083 | works_for, headquartered_in, located_in, member_of"}
+{"k": "7a64c38370c8ae0af54897827f1deb01e66404be", "v": "UNKNOWN"}
+{"k": "03aea8de95acbaae067429dcf8b5ebbedab3283b", "v": "Company_0168 | works_for, headquarters_in, located_in, member_of"}
+{"k": "9e975b45fa22d7da6333afc8e4bc9be8e488003e", "v": "Person_0011 | works_for, headquarters_in, located_in"}
+{"k": "e75b2c1dd11b3955c9ce8067a70ca9c5bb3473a6", "v": "UNKNOWN"}
+{"k": "3a84df0834267b145646b25f59e91569f2d91df6", "v": "City_0079 | located_in, member_of"}
+{"k": "a6f4c5e2a92188a17f557d77cbe5810be59ae780", "v": "UNKNOWN"}
+{"k": "ee0fbd471e9638e972bf8c77fe26abd070f3bf9d", "v": "Company_0064 | headquartered_in, located_in"}
+{"k": "8dc2f93991d333afc260ff0766d3cab4d746e208", "v": "UNKNOWN"}
+{"k": "e5c0b65c986c7e0067185c8aa8a15a9c68d975d1", "v": "Company_0146 | works_for, headquartered_in, located_in, member_of"}
+{"k": "2cd8658a72c0ab7a798b54ed0547024396c3b1ce", "v": "City_0016 | located_in, member_of"}
+{"k": "cddb3e27dfb9df2a1cc43531898914d9c5ee48ed", "v": "UNKNOWN"}
+{"k": "37a23dd04e6da3b3731e56c5e93c56b660b47c52", "v": "Person_0060 | works_for, headquarters_in"}
+{"k": "caebd1294331b9716feebf05c6f01ea66fc3ba1f", "v": "UNKNOWN"}
+{"k": "29b1c7158973d4c67f0f162f66fac16fee58a18f", "v": "Person_0117 | works_for, headquartered_in"}
+{"k": "aab3b1d529a31e1e9dfe178a1132860afac1efda", "v": "UNKNOWN"}
+{"k": "e7dbbddba3a7c0fe6ba6adb67e3026c813c83ba7", "v": "Company_0145 | works_for, headquartered_in, located_in, member_of"}
+{"k": "129f80834e7aae271aa402be4ac5cf7b522e7227", "v": "Person_0024 | works_for, headquarters_in"}
+{"k": "4494660e0d9f6a157801938b578c46e77fd8c5be", "v": "UNKNOWN"}
+{"k": "5b4b4519cd7a6610e79121b68d3b637529549c3b", "v": "Person_0076 | works_for, headquartered_in, located_in, member_of"}
+{"k": "629a2bb40934d29def539832eef59799393ac6e1", "v": "UNKNOWN"}
+{"k": "528d4fb9b11a4f561fc537735abadf4a18081115", "v": "Person_0076 | works_for, headquartered_in, located_in, member_of"}
+{"k": "aae0d02aea566472ca0020216e93ff2f72f5bd81", "v": "UNKNOWN"}
+{"k": "cea3804d9647d8712acce3f8469f75692eda62de", "v": "Person_0025 | works_for, headquarters_in"}
+{"k": "a58d9681dc9bb7b98dd88f2b363820343c85007d", "v": "UNKNOWN"}
+{"k": "e8a949c027dffdb00976cd3707c91073cfe9b46b", "v": "Company_0025 | headquarters_in, located_in"}
+{"k": "ff5b4cda2d3ef7b15d5bf5c9609d2e6ccec56b1b", "v": "UNKNOWN"}
+{"k": "de9aa3e141455a1ca1011ffcc387c397d3109a4b", "v": "Person_0001 | works_for, headquartered_in, located_in"}
+{"k": "bafe5ad28228e85e8be99a14bbd60ab941232fe1", "v": "UNKNOWN"}
+{"k": "1aadffe9bdd7685ed70d5b5a166e035c804b9705", "v": "Person_0046 | works_for, headquartered_in"}
+{"k": "5a0636293addd487c471fd141851c975e1ae4ad1", "v": "UNKNOWN"}
+{"k": "d41087ffae1ffe2c1379b576449d61e798d5648c", "v": "City_0109 | located_in, member_of"}
+{"k": "dfaaa1a5535b71be787b37217ee9a836195ad759", "v": "UNKNOWN"}
+{"k": "d3f9188985c3d84ba524656c7d1be19a24b99ce0", "v": "Person_0136 | works_for, headquarters_in_city_located_in_country_member_of_bloc"}
+{"k": "d721dff5bad42fb4b4338d163be28f64bec6e536", "v": "Person_0050 | works_for, headquartered_in, located_in, member_of"}
+{"k": "0bb39a8d3e2ca0287f631c418518869cac4af945", "v": "UNKNOWN"}
+{"k": "8350847c58fd9ea2548e71f2639fcb3c97d75f36", "v": "Person_0076 | works_for, headquartered_in, located_in, member_of"}
+{"k": "c1b419e8be2b1709ed5c8828d70d502a99dc635b", "v": "UNKNOWN"}
+{"k": "89d4226c4f964330c7ee45530d14a876bea4e0b3", "v": "Person_0076 | works_for, headquarters_in, located_in, member_of"}
+{"k": "d12ce6ce75f33bd82e94662353cf699a8a0b17d2", "v": "UNKNOWN"}
+{"k": "42cf7ba61c7ebab3e3935e00ca6ea0446214222d", "v": "Person_0025 | works_for, headquarters_in"}
+{"k": "f6a4a038606b0313c2f55127190d384a1a931b67", "v": "UNKNOWN"}
+{"k": "bf445f9642ce5fb268abe37fb49c42169fdbce3f", "v": "Company_0025 | headquartered_in, located_in"}
+{"k": "3d2b025ef24d3d0225fca3ec0fd1a8e6d86a4168", "v": "UNKNOWN"}
+{"k": "fab286040ee72f1a29d84e6c48d1399e7ba2e211", "v": "Person_0614 | works_for, headquartered_in"}
+{"k": "393fa21be9175e98371c0709aaab9d7a53fe3891", "v": "UNKNOWN"}
+{"k": "ca07557f2895180eed08cdee431dbcaff1811e84", "v": "Company_0120 | works_for, headquartered_in, located_in, member_of"}
+{"k": "be7fa565e0d552ed6363d59baca8f4eb25c003f0", "v": "Person_0140 | works_for, headquarters_in"}
+{"k": "28285ddb27ad3e72cf953efaae8d762e053765ef", "v": "UNKNOWN"}
+{"k": "314b199a13d9657081c1120f41497b6a92fc7401", "v": "Company_0164 | works_for, headquartered_in, located_in"}
+{"k": "c8884afd559794432917a12efa9b210a01a0d6e3", "v": "Company_0191 | headquartered_in, located_in"}
+{"k": "74227ea12e4391f45ba6091cd0dd289bfab84d99", "v": "UNKNOWN"}
+{"k": "12833bbb3e25ab83342788ebe1a5bdac4995ba4b", "v": "Person_0012 | works_for, headquarters_in"}
+{"k": "478b6156bb07f1c22d823de9056778eda4baff94", "v": "UNKNOWN"}
+{"k": "3cfb54f55641286bfa5c2885490c92336730e208", "v": "City_0008 | located_in, member_of"}
+{"k": "edef85b156954ed1ada79cce2b6a6234eb21f879", "v": "UNKNOWN"}
+{"k": "e4e23a346f7fcbde6c8a3a65354c1ed9f144a171", "v": "Person_0084 | works_for, headquartered_in, located_in, member_of"}
+{"k": "f3afb904c7b833480e60bfd8486b6de14c436a97", "v": "UNKNOWN"}
+{"k": "c2761741e6eb1ad70778e2d4efc1bb53e579078a", "v": "Person_0117 | works_for, Company_which_headquarters_is_located_in | headquartered_in, City_which_country_is_located_in | located_in, Country_of_city | member"}
+{"k": "7b5496c09c2b5b9dc89ce89da6d30f6eed346f13", "v": "Company_0164 | works_for, headquarters_in, located_in, member_of"}
+{"k": "9ad68d2afcd21298e21ac3b191166bf206ea663f", "v": "Person_0066 | works_for, headquarters_in"}
+{"k": "0b962a89f4e2df93cde7f74d21a4bb25b353441a", "v": "UNKNOWN"}
+{"k": "91222a8b9ecd7aec0e327b47cd2f01a9d90dd547", "v": "Person_0639 | works_for, headquartered_in"}
+{"k": "f1ef0ecc1328b985d80371808c1c24359e3a38c2", "v": "UNKNOWN"}
+{"k": "59dad40925a0404a31124ee9cec8c6f5d06dd18b", "v": "City_0107 | located_in, member_of"}
+{"k": "5d0acec28b550b1c26ab0cc3767695290e0cb2cc", "v": "UNKNOWN"}
+{"k": "058802b938f5bbc55adde58dbb53211305278e51", "v": "Person_0001 | works_for, headquarters_in, located_in, member_of"}
+{"k": "f530cc8451057a00a9688767f912d4853d9c72ba", "v": "UNKNOWN"}
+{"k": "50b8acd5b6b092e2fd0939611c3575d90b34abc3", "v": "Person_0633 | works_for, headquartered_in, located_in"}
+{"k": "9f7952617ded4a0e51665f9788ef55b8f77d2e97", "v": "UNKNOWN"}
+{"k": "7971bd58b8bf0d11aa02c4fd5b60357ffd0027f9", "v": "City_0039 | located_in, member_of"}
+{"k": "38444fd0de46ac352b579f9de6e19b09d66ead1a", "v": "UNKNOWN"}
+{"k": "a8bbd779b5a1b4cd79e95faaf1da8998487cdd8f", "v": "Person_0059 | works_for, headquarters_in"}
+{"k": "35f142adc3263cfc66ed9f2e000c551bb14d8e7c", "v": "UNKNOWN"}
+{"k": "233c58a0c927ae373c1f435721835c410aa58e0f", "v": "Company_0152 | works_for, headquarters_in, located_in, member_of"}
+{"k": "603de186cc8393d38b37d842db3876dd6c554373", "v": "Company_0179 | works_for, headquartered_in, located_in"}
+{"k": "7b3d0b8330c96b86dbfab0bbfbfef23a40990211", "v": "Person_0039 | works_for, headquartered_in, located_in, member_of"}
+{"k": "0962ed9b06eec927d7399654374ac2349a9199e1", "v": "UNKNOWN"}
+{"k": "0d727c8195f062893107e5c0babeb22c627dbd15", "v": "Person_0125 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "0e60343466c5dc914588ff1aa1980726592a7016", "v": "UNKNOWN"}
+{"k": "fcbbf3c0d7eca10fe201104967b204a1dad8258c", "v": "Company_0028 | headquartered_in, located_in"}
+{"k": "2d1fa6ac1434fc5585a95889faa485901e3d2cdc", "v": "UNKNOWN"}
+{"k": "c7e345cc94fcf4ea9a8b953eb3690aac1e18a120", "v": "Person_0061 | works_for, headquarters_in"}
+{"k": "3c2e7d7e4247784bd9306492e22928c5af221dcc", "v": "UNKNOWN"}
+{"k": "606d94e4874f1ece3bd6d76ce0b2fa531ee60ddb", "v": "Person_0096 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "35e34b8a819fdfecddf5294c7e48bfd96a030a80", "v": "UNKNOWN"}
+{"k": "e8da52b3ea931abef87a28d77a36e3a632dce4d8", "v": "City_0010 | located_in, member_of"}
+{"k": "09589ace3353e7766a250de296cbca2ceec0ae78", "v": "UNKNOWN"}
+{"k": "a94ddf94c4f8841cb3b6bd9398db8ddd441f970f", "v": "City_0058 | located_in, member_of"}
+{"k": "e5f8e1d264ab982fd76faa758d4cab499131ca2a", "v": "UNKNOWN"}
+{"k": "1405d670b576f0433413f8134b2e21aec2f2fc64", "v": "Company_0090 | works_for, headquartered_in, located_in, member_of"}
+{"k": "fa2efcec446380bcd421f3efd2aedd2181465918", "v": "Company_0084 | works_for, headquarters_in, located_in, member_of"}
+{"k": "657c0a3104b97867ca0a6e842762dc6bb012cf83", "v": "Person_0029 | works_for, headquarters_in, located_in"}
+{"k": "50b84e308787619e3185afc98d342d28c32ef212", "v": "UNKNOWN"}
+{"k": "b9a655226e7af91c3e941e6fd200948fa9a2b22d", "v": "Person_0621 | works_for, Company_Headquarters | headquartered_in, City.Headquarters | located_in, Country.CityLocatedIn | member_of"}
+{"k": "e9f581f8e9b7f093418125bbb256c4a2c3e43fd2", "v": "Person_0081 | works_for, headquartered_in, located_in, member_of"}
+{"k": "4594f7adc270ac8d6c1c35f27f68259d957e2705", "v": "UNKNOWN"}
+{"k": "ee39b34d73a4b83f07ae014ec063c30ea1ce1acc", "v": "Person_0143 | works_for, headquarters_in, located_in, member_of"}
+{"k": "6471ccece446adc9653ea568bed7e0aa2246274b", "v": "UNKNOWN"}
+{"k": "e7ba26d64ce4956aa104561845c2eb28df8ba9e3", "v": "Person_0102 | works_for, headquarters_located_in, located_in"}
+{"k": "73bce6bdd7074b493a9743a2d72ef25c0beeb172", "v": "UNKNOWN"}
+{"k": "f7c740123c7836a86bbc39c74fb2d0faeab79c31", "v": "Person_0028 | works_for, Company_0001 | headquartered_in, City_0001 | located_in, Country_0001 | member_of"}
+{"k": "c99da57d5be69e45b35f6a14c2d0b6bd762aac99", "v": "Person_0064 | works_for, headquartered_in, located_in, member_of"}
+{"k": "7877b170ae5596e56cf867f89bef6856294e8888", "v": "UNKNOWN"}
+{"k": "4c406ff446cc7d52667641034f433de79811ccbd", "v": "Person_0061 | works_for, headquarters_in, located_in, member_of"}
+{"k": "8f920c4d288ab94e2a4d063678bbfe9be06aa172", "v": "UNKNOWN"}
+{"k": "bafc8e5b1688f33a660b67578bef4c8050baf7fb", "v": "Person_0047 | works_for, headquartered_in, located_in"}
+{"k": "fd86b03e032152b6f89a707ea388504964c751d9", "v": "UNKNOWN"}
+{"k": "003bca4549869cc1d8bb6fe78f5d689227016cf0", "v": "Person_0078 | works_for, headquarters_in, located_in, member_of"}
+{"k": "6efec864caf25b9e245152be979ee4f075468417", "v": "UNKNOWN"}
+{"k": "e5979ed8fb67f574c68a10caaf265ca63ee616e3", "v": "Person_0119 | works_for, headquarters_in, located_in, member_of"}
+{"k": "e31af466ff35cbbd937e3860bded56d41e308de7", "v": "UNKNOWN"}
+{"k": "0505cb1b44b475db59a1bf65049c595d32527e07", "v": "Person_0132 | works_for, headquartered_in, located_in, member_of"}
+{"k": "f715c2340ec87be12ef195ec13249e8fcd6fb591", "v": "UNKNOWN"}
+{"k": "bfe3927c0abbc54ec440b8bdcb199cbd60672b35", "v": "Person_0657 | works_for, Company_0657 | headquartered_in, City_0657 | located_in, Country_0657 | member_of"}
+{"k": "dfe322a2b562a8f1db80b09da376f4362dee4de8", "v": "UNKNOWN"}
+{"k": "c57d66b40e88e763a374d2e4af791f57f0199b61", "v": "UNKNOWN"}
+{"k": "adc0f8075247b1581225c4640655f209775d4252", "v": "UNKNOWN"}
+{"k": "b5c14c0b0dd7ee58372c7399375468e2d1990726", "v": "UNKNOWN"}
+{"k": "527a92fc6e5d459b3fa1e08e320c596807dee673", "v": "UNKNOWN"}
+{"k": "dc46865a1d2b25226dd9fd9daf7002bd227e12c7", "v": "UNKNOWN"}
+{"k": "8112a9c2cc66945e4a23e4b212fac5000a1a6b43", "v": "UNKNOWN"}
+{"k": "f4710757371c17011954debe39262f9b000d80e0", "v": "UNKNOWN"}
+{"k": "5dcf0e77f19b6105d8242d433c2f1b6b7e0b3f23", "v": "UNKNOWN"}
+{"k": "b8779987262db43ff146accf0741da5299e049d3", "v": "UNKNOWN"}
+{"k": "7809408c9f28178f57b4e4d67edb46ec4f18cb12", "v": "UNKNOWN"}
+{"k": "6194d5734fa8de23ae6f093480dab4d9aa791413", "v": "UNKNOWN"}
+{"k": "a53a06fe88ba91c292c95b9109e41c9c819668e8", "v": "UNKNOWN"}
+{"k": "30e4b0d7978fd15b69e3bb95da8edd8719f138fa", "v": "UNKNOWN"}
+{"k": "fadcefcb4afb76962a1edc55d335f7f6feeb2407", "v": "UNKNOWN"}
+{"k": "30c1d375870c3a1c7ad848956fbedc1ce1781a5b", "v": "UNKNOWN"}
+{"k": "1b9a8521fcdacc6e1a597254a8fd8447781809f2", "v": "UNKNOWN"}
+{"k": "1e20f80f337d91e12619238353066ac94f4e48b3", "v": "UNKNOWN"}
+{"k": "337d12bf9c4bd35da09cd192f27eff35b9162864", "v": "UNKNOWN"}
+{"k": "c38317b1445173cde283ea0b87641ad78a2d12bd", "v": "UNKNOWN"}
+{"k": "fb83629eab5a78728e7c43905c3e3993a06a0888", "v": "UNKNOWN"}
+{"k": "4ad48402cf861f407da22cf75a78dd85b321ebf2", "v": "UNKNOWN"}
+{"k": "63360afc369e01465af5b8dabf7a590ad3e65d65", "v": "UNKNOWN"}
+{"k": "ac5b35d9a55f08a8ac3829e5a80b234f35efdc84", "v": "UNKNOWN"}
+{"k": "6fb7ade6178e931f02a5737ee6cd7b043281e9c4", "v": "UNKNOWN"}
+{"k": "49a06c1620b1a4fe074e4f9cbda3a9213148c531", "v": "UNKNOWN"}
+{"k": "64d9faa2cbce160f1d6f10d85b33d0a9a5983c5e", "v": "UNKNOWN"}
+{"k": "d98985041a3018a2485ecc6c62a277cdbaa29e4d", "v": "UNKNOWN"}
+{"k": "b25dfb95c598db781895b2dfff0d28684c71b86c", "v": "UNKNOWN"}
+{"k": "df49c0a74d3ac7ba50806a475350e9e2a0e46e93", "v": "UNKNOWN"}
+{"k": "fc122eaca90edc9d15ebb438d401f1984289349c", "v": "UNKNOWN"}
+{"k": "c5ca86779a50ef0268fdb98d04cf952c24235a08", "v": "UNKNOWN"}
+{"k": "5b749101c3fa5eac96ddc4518acd73986092b532", "v": "UNKNOWN"}
+{"k": "5ca573d2f2507eb4f352beee49ed9be44e4005c3", "v": "UNKNOWN"}
+{"k": "3ad665c560ea2bb46e156ba4d69190d23ca486cb", "v": "UNKNOWN"}
+{"k": "a28afd711312f15d34e635098253ee498b5568a1", "v": "UNKNOWN"}
+{"k": "58b988cb6c64d4f218e8a947072eee60b6578b6e", "v": "UNKNOWN"}
+{"k": "cb4b718b40351dca2a011b3b4ca22308106f4f01", "v": "UNKNOWN"}
+{"k": "4ed53c63827f9253ee7e0b2305e424c7c7c07479", "v": "UNKNOWN"}
+{"k": "2203eead07609edb030aa659a6728c2a44f9572d", "v": "UNKNOWN"}
+{"k": "dee95973f1e195b4f7bd63b00bf43f87e0659e82", "v": "UNKNOWN"}
+{"k": "92ba48134084a285dcd9769e31ef8bef8106f310", "v": "UNKNOWN"}
+{"k": "fdcb7dc5e24e8c488234e3621f36947863573cdb", "v": "Company_0151"}
+{"k": "139ae6527469b54dc1ea49a10169a3becee455e0", "v": "NONE"}
+{"k": "3be022983f6b33881d7896188847d40f7dccc1af", "v": "UNKNOWN"}
+{"k": "d182b16866577ea47923f2946a2a38e28f0ad3a1", "v": "Company_0117"}
+{"k": "0fec4132906380a2d40058ef8695ba3cb4a014ed", "v": "City_0116"}
+{"k": "1675bdd4b7411a54380d4417c9f51682e8a90052", "v": "Company_0122"}
+{"k": "cc1afebbbb368137120b233f35260f2c21f6130e", "v": "NONE"}
+{"k": "be9b64a91d50362b7d8ccd8f78c33777e56018a1", "v": "UNKNOWN"}
+{"k": "86e6073d9bf4484e567d000f668bb2b9c033e6bb", "v": "Company_0097"}
+{"k": "9a5b3c1516ce577475e34c970e2d8c5e6c6df3a8", "v": "City_0108"}
+{"k": "e5011d7443509abcd5e336f13b8e367cc46a7a71", "v": "NONE"}
+{"k": "81cf185e97692b1af1661f05c1d3e56287cbe7fc", "v": "UNKNOWN"}
+{"k": "02007c88a89799150f816b3a1cff86a10b76430d", "v": "Country_0049"}
+{"k": "93123df58d5481177ada028da7442da52fb9c935", "v": "Bloc_0008"}
+{"k": "4b7662e578c0aa2b09b68f54cb335e2dd5cf1623", "v": "NONE"}
+{"k": "fa5f210cb0964d9972cc629b87140ddb961446fe", "v": "Country_0058"}
+{"k": "1a9ffc525be706ad59a01bcc4d246248016287fa", "v": "NONE"}
+{"k": "1571d972b7e033cdaec8e6f74d3c267f92e6bc92", "v": "UNKNOWN"}
+{"k": "bfd6c4c045a677c08b47428c276025b97fc75c88", "v": "Company_0025"}
+{"k": "28d2a243be7c11c778f053b9205615a44ed2c7dc", "v": "City_0020"}
+{"k": "f9618ac310a905147aa00d4135df8e45ce306ef8", "v": "NONE"}
+{"k": "2c3c8107d977b27258535984b586d90d12222a0a", "v": "Company_0068"}
+{"k": "49d2c2500aebbbed489f7df464e0369170fd211b", "v": "City_0049"}
+{"k": "2aa8ad99dcda3fcb0cd6d32c509815183a56d13a", "v": "Company_0072"}
+{"k": "50c6a23362e00232efe0d36a6f3839db22584379", "v": "City_0069"}
+{"k": "266a715da287ef9b9f0b89a0ec1c847fad58838d", "v": "Country_0040"}
+{"k": "b6753a82e604fea7164ef091fbda871b86dc4798", "v": "Bloc_0008"}
+{"k": "00eef82ba2573cc268d6f83e2900c2458e7cec78", "v": "NONE"}
+{"k": "efdfe15522754333761b38330cd4a9697b289afb", "v": "NONE"}
+{"k": "d41ed6acf6b9b525bccec2fc5f149c81295e87ac", "v": "UNKNOWN"}
+{"k": "481d24318ac9abeef282cd3e4d152fe42072a911", "v": "NONE"}
+{"k": "d165455895fc40230353b7dae3b4cd56cf326435", "v": "Company_0001"}
+{"k": "59670b059d55bdc7f4f4b44b07d040042cdf08fb", "v": "City_0063"}
+{"k": "7a32b759b59a364066a4aaf1c5e2646cff52686d", "v": "City_0039"}
+{"k": "4f564060431e2596a2f856ba0a206d85ada6ccfc", "v": "Country_0047"}
+{"k": "35b3d4bf33ca894aee3daf9a06fed051c53e49cd", "v": "NONE"}
+{"k": "8823e8746e5cc54f6815f04377ecada939847b81", "v": "NONE"}
+{"k": "e4767ebb5f696504ccdfcdb291039f52d5fe2506", "v": "Company_0062"}
+{"k": "560fdca791a17162dc38936a525afbb9dc58f1d0", "v": "NONE"}
+{"k": "9f209c45844503298bda058e2fe913712c81abae", "v": "UNKNOWN"}
+{"k": "48d90a4cb16e019cccb37d79f8280c2f04505d0a", "v": "NONE"}
+{"k": "dbad88ad3e2d7ead403392fcc32a95b168fc2e62", "v": "NONE"}
+{"k": "2a47b6fd48f110b2e38461329dd423d80e216d60", "v": "NONE"}
+{"k": "efdd9ddd4e0a013954589cb82cbb6deadda4481b", "v": "NONE"}
+{"k": "529889672673b20a59cdac47b861afa532da168e", "v": "NONE"}
+{"k": "095aab924db9c29e0cede0b373c4ef4deebbda5f", "v": "Bloc_0013"}
+{"k": "07a75e798ba0f3b5c44a93f3369e99e38a224140", "v": "Company_0164"}
+{"k": "3ceaa0b7f4d1ccf960044dbf5493050943278a6f", "v": "City_0026"}
+{"k": "871fe2d83233334cf98347aed0118ebfb09c6953", "v": "Company_0108"}
+{"k": "54c96effcd363500eccbca88b684c5ee03451ff4", "v": "City_0079"}
+{"k": "410ce15b0a81dab5449d1edf636f56b011265b43", "v": "Company_0051"}
+{"k": "080112d7354a85cb25cc83201a116a9cfe6aef78", "v": "City_0048"}
+{"k": "e99e83caab0438ddc6e4dd46157f6318aa822a30", "v": "NONE"}
+{"k": "7ce96188281714d230cd354acc1009551081264d", "v": "UNKNOWN"}
+{"k": "b060a487856a8f838afb36410a00cf82718ad3bd", "v": "NONE"}
+{"k": "37ec1f6dda1800251c82624fa9bb88ea7df65d8f", "v": "Company_0115"}
+{"k": "b70870cf0fb721aa298cca6c70eaf2bf23137829", "v": "NONE"}
+{"k": "c1295a15887844f28b28e4c7892af6ac8bf330c9", "v": "UNKNOWN"}
+{"k": "cc65d144e9747d974d55a7c909f8330ce3edda59", "v": "Company_0095"}
+{"k": "3e02886e17707f845acc3f6a3fecef0521857e3e", "v": "NONE"}
+{"k": "3a2943c3de7c50ec54f6af347eba431e00714021", "v": "UNKNOWN"}
+{"k": "b0cecb661ac3521591cc511c5e6e34992a1c870f", "v": "Country_0046"}
+{"k": "af549f4ebbf876db4851ca4309348e54694670f3", "v": "Bloc_0010"}
+{"k": "65fc3e274be2166af699deed7079b70c210934cf", "v": "NONE"}
+{"k": "d9ed6d051be5fe2b1a712970bf5668dd8b3c20f1", "v": "Company_0081"}
+{"k": "01d4d491b100eb8642d396929d1c73c4cb85ae15", "v": "NONE"}
+{"k": "74d799702c0c76592fb1ce605d85b67f9a8379c2", "v": "UNKNOWN"}
+{"k": "d0bf2efc4019bd5186a0d1a032ba790a4cdf24ce", "v": "NONE"}
+{"k": "13fc87fbd01a199e451c454af2d492914eb94cb6", "v": "Company_0131"}
+{"k": "b7c080c6d75a9a952a6b07a7aa4b3c34c1ef3315", "v": "City_0002"}
+{"k": "2abadae4f544872186f1220602ce831ac9c8e8d2", "v": "Country_0004"}
+{"k": "dee484fc5467c981246cd544f4736968789510e6", "v": "Bloc_0005"}
+{"k": "bf232970f745b20dd9ebef6bad188932d7bb1aa1", "v": "NONE"}
+{"k": "151de9d00890e8a1f3944608123175afcd991c1a", "v": "Company_0075"}
+{"k": "6e3c3429e8521fe3e4a20941c72fbc6fba66f9e5", "v": "City_0067"}
+{"k": "bec5e18b5693078a3caaa32e69f42d9ce3c1a4ea", "v": "Country_0047"}
+{"k": "fbecbd4e6f8f4712df5ed2c510e7bcb5751e8d09", "v": "Company_0141"}
+{"k": "187a1c1c330a5d9643cd114e8b63cdc1e39d9d73", "v": "City_0018"}
+{"k": "e5429882dcbc59463c133a97a07db4a72995bf4a", "v": "NONE"}
+{"k": "9b02b3526ae31f3e1f745dc617611b1dac686cdc", "v": "UNKNOWN"}
+{"k": "443abaac6698f713f05059051927d8587b2fdf05", "v": "Company_0127"}
+{"k": "3bd4f3a661ae2acd353d0267bbc17f8924011feb", "v": "City_0024"}
+{"k": "17c80949fea93fb54abb9f8978ed8f3673e6fbd1", "v": "Country_0024"}
+{"k": "84757c53bc43b403169cee64091ef71e6e14ba66", "v": "UNKNOWN"}
+{"k": "ec7c039568e4a86aa17978e536832b30a6647059", "v": "Company_0043"}
+{"k": "c573e80da70c0b70941ab45ddf68f2d060c664e4", "v": "NONE"}
+{"k": "cd2ad14350dcc3fa4ba4b3bc2fd0889e015d4204", "v": "UNKNOWN"}
+{"k": "acc86208c27a1a987c331eeba38e65532b529fbf", "v": "Company_0147"}
+{"k": "eea10ebe42f52a76feea6bbf47c0cce4c110f1af", "v": "City_0096"}
+{"k": "6e14968e28931bafe67557939c4135f947881b20", "v": "Country_0045"}
+{"k": "ab74c5f7fa8e49215c1c72d9ad26bb8cd5e253ac", "v": "Bloc_0012"}
+{"k": "0802ee7f09e39514e73caa1a5212834bfbc7539f", "v": "UNKNOWN"}
+{"k": "bcdde62a0484cd8e6ab8f2a3ca4a885a0c7735ea", "v": "UNKNOWN"}
+{"k": "e4bc478565e6984f376dad40b53a1c7ed6a7e344", "v": "UNKNOWN"}
+{"k": "73a1aa974f5651b62cdd421f1ca30bffc5a26184", "v": "Country_0012"}
+{"k": "e3e59e2799065fc56cba7e6b48a46150e9dddfbf", "v": "City_0114"}
+{"k": "f4d7fbe28049cbed92ead55f44f9e8fe0f400c2c", "v": "Bloc_0015"}
+{"k": "d4b0a439e47b69969e3318796356a5bdb4dd6ea3", "v": "City_0087"}
+{"k": "60f10a1ac3df4b62ae5fb712fde7c89ab4e9c303", "v": "Person_0115 | works_for, headquartered_in, located_in, member_of"}
+{"k": "46a8a7a51b6306703b7d8a17d41ff112adf3f431", "v": "UNKNOWN"}
+{"k": "5db8a8e3c83b781dd0ab92e1b4df3a7eb6dde195", "v": "City_0058 | located_in, member_of"}
+{"k": "41221994b51a18109093e0b623d0317bb02405f5", "v": "UNKNOWN"}
+{"k": "21ad90ecc5a6b13de473943314fb06bc5460dccf", "v": "Company_0152 | works_for, headquartered_in, located_in, member_of"}
+{"k": "c435ca5d416fed01d58e310acb644b4e3642bd5d", "v": "Person_0109 | works_for, Company_which_headquarters_is_located_in, headquartered_in, located_in, member_of"}
+{"k": "4e958340892db4e67999e8e7f78b917825b63d4b", "v": "Company_0015 | works_for, headquartered_in, located_in"}
+{"k": "9552ddc51135c9e8d3e5c0cd777b73c9d8c05945", "v": "Company_0190 | works_for, headquarters_in, located_in, member_of"}
+{"k": "11c10952414476bab0a0636ff349030436c43fc7", "v": "Person_0136 | works_for, headquarters_in, located_in, member_of"}
+{"k": "cc9dadbf2f1896a3309f40cdd6ee4fae5952d601", "v": "UNKNOWN"}
+{"k": "ab4595742f5900c1dafef9c4a44af0a4477503bf", "v": "Person_0082 | works_for, headquartered_in"}
+{"k": "b3a2eef965bb64f85ffcdc653cc071e7fa5cc480", "v": "UNKNOWN"}
+{"k": "e122cf764475de9df176fd115e0adfcb1e460eb6", "v": "Person_0014 | works_for, headquartered_in, located_in"}
+{"k": "36eb6b8ecbef030ca7bc50bc4c96fcb9148ff0e2", "v": "UNKNOWN"}
+{"k": "c4356052a6538591044a80dab744c68a9eb8959d", "v": "City_0110 | located_in, member_of"}
+{"k": "6c56dd07acdd8372d20f9bf13bb0e2e553a0cc7d", "v": "UNKNOWN"}
+{"k": "6740296357b3b2a5e124ce58aca26adfb146a276", "v": "Company_0063 | headquarters_in, located_in"}
+{"k": "4410fa4f1a16d6d5125701c8dd72bdf331d4dbc8", "v": "UNKNOWN"}
+{"k": "fb2856ef139f0465cfe273ed446ed8aa41180de3", "v": "Person_0135 | works_for, headquartered_in, located_in, member_of"}
+{"k": "245186cb2ff07c3bdc2738c714a09389f009f4ba", "v": "UNKNOWN"}
+{"k": "53474b4315bf6eebab3b1c3297e2cfeadd4271c9", "v": "Person_0051 | works_for, Company_0051 | headquartered_in, City_0051 | located_in, Country_0051"}
+{"k": "1de5673706e9add92db5ee3364f5c5ad402a975a", "v": "Person_0128 | works_for, headquartered_in, located_in"}
+{"k": "1e01666d0c2c75a74e1bf4e33576e181789dec7c", "v": "UNKNOWN"}
+{"k": "18b68984bc10fe749cf693011993ff39c89326ab", "v": "Person_0050 | works_for, headquarters_in_city_located_in_country_member_of_bloc"}
+{"k": "e3b7964a0fdd4950c79b301c393b7c82e2e74aaa", "v": "Person_0119 | works_for, headquartered_in"}
+{"k": "92c8845d6ea4fc84c5e1a3cfb0f327b990961135", "v": "UNKNOWN"}
+{"k": "9dd11783234570c8c31bda47f90af5b97603ac80", "v": "Person_0019 | works_for, headquarters_in, located_in"}
+{"k": "1fd0ee3f3ab4ad0b1c23d3d402c37288b7cde095", "v": "UNKNOWN"}
+{"k": "f176f84443f738506eae565189a9c21e445b9042", "v": "Person_0064 | works_for, headquarters_in_city_located_in_country_member_of_bloc"}
+{"k": "2d2ad138f6f4a0aaddeac2c73373f9cce2790b5f", "v": "City_0009 | located_in, member_of"}
+{"k": "340fcf2c21ca35bb069c895d14f519c937fc8e6e", "v": "UNKNOWN"}
+{"k": "10b1f3422516ed30c5c65d55f8e3029ccd6f6b01", "v": "Person_0072 | works_for, headquartered_in, located_in"}
+{"k": "eb436d4eee8dac8997a92a26526a435c84907617", "v": "UNKNOWN"}
+{"k": "dfb853789293ad973eb931b08119962127fec105", "v": "Person_0027 | works_for, headquarters_in, located_in, member_of"}
+{"k": "4546d765d8118ca8f088058d5c065a4b2e486ed2", "v": "UNKNOWN"}
+{"k": "79afa31cee3e0b537079017e12db471cd61ed5b5", "v": "Person_0011 | works_for, headquarters_in"}
+{"k": "b10456343f5b93d8b140ed9a0afd6d0eb6809f2c", "v": "UNKNOWN"}
+{"k": "388c4854a341d53fd3f04faaf91144cd5b47d4e3", "v": "Person_0049 | works_for, headquarters_in"}
+{"k": "6559dd524b8215001e1b2b3e44542e13310ab92b", "v": "UNKNOWN"}
+{"k": "08b595bca8c1406888c61bde59aac86859a9c595", "v": "Company_0061 | works_for, headquartered_in, located_in, member_of"}
+{"k": "b4e6514acb12ab5f8750018d28ba40d4c0b0ad45", "v": "City_0095 | located_in, member_of"}
+{"k": "a47421f9fac4ff06d2d1556a6142549a4cc3aa57", "v": "UNKNOWN"}
+{"k": "9649e00b8b927182f9769467db4eda0e9a73be8c", "v": "City_0037 | located_in, member_of"}
+{"k": "5bed1b3eca49a2e2c3bd3e23e407083a3a75d766", "v": "UNKNOWN"}
+{"k": "c1fb3cb997137ba82762494c4e813b78b535c398", "v": "Person_0111 | works_for, headquartered_in, located_in, member_of"}
+{"k": "e2375d70957b2db7777603ee7042c94ceda11799", "v": "UNKNOWN"}
+{"k": "6e97ff2e83bdcf02aba5b74478224a5cc1790060", "v": "Person_0037 | works_for, Company_0001 | headquartered_in, City_0001 | located_in, Country_0001 | member_of"}
+{"k": "198fe13b11ed7a51fc3107934d05288968651618", "v": "Person_0088 | works_for, headquarters_in"}
+{"k": "4074a9ff03ba194f18d2927d9ed7e73736d82d80", "v": "UNKNOWN"}
+{"k": "ca25a1e44a643c78c29a0048d3bcf30798d13ac4", "v": "Person_0613 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "744b715371f964df3deb27c1589cd89c29d1e67f", "v": "UNKNOWN"}
+{"k": "a8a577b642e0090846db8d817efebb86da97b94b", "v": "Person_0128 | works_for, headquartered_in, located_in"}
+{"k": "2a0baf2ffc2a9c027a974b92ad844041769459e3", "v": "UNKNOWN"}
+{"k": "d20754b44cc5d21875b0be7a66b490c715956254", "v": "Person_0603 | works_for, headquarters_in, located_in, member_of"}
+{"k": "e7638383abebe8b843456febe57898e15d538178", "v": "UNKNOWN"}
+{"k": "21864fa7e31e8a0f5f0f26f8d9538428699f8369", "v": "City_0017 | located_in, member_of"}
+{"k": "c523a261a8107b0ac76c51eed74fb05fcffc920d", "v": "UNKNOWN"}
+{"k": "c2c22280f2727100eef3d99dc5c58aaf5fa6444d", "v": "Company_0191 | works_for, headquartered_in, located_in, member_of"}
+{"k": "21520524851781cb49fb4a942bff6adcd157c0b9", "v": "Company_0146 | works_for, headquartered_in, located_in, member_of"}
+{"k": "d50680bc58591d58cd70df442ab80eaf9a637293", "v": "Company_0127 | headquarters_in, located_in"}
+{"k": "eb9021c54fd63ad4d9d7105c81753da999160c42", "v": "UNKNOWN"}
+{"k": "c1b2b3b7135a052b44370ec565674e1489e7dd56", "v": "Company_0075 | works_for, headquarters_in, located_in, member_of"}
+{"k": "cd7e8994e2ab79497f864a2505ee22f616cb99e2", "v": "Person_0625 | works_for, headquartered_in, located_in, member_of"}
+{"k": "f03061642ea01655e2bda1e0aa2073fa564fc306", "v": "UNKNOWN"}
+{"k": "050d4bf1d95e4392948b732b6408c6174ecc8732", "v": "Company_0106 | works_for, headquartered_in, located_in"}
+{"k": "bb84e0738fd55ba1e0ad77a4f72d735b8fb6b0f0", "v": "Company_0052 | works_for, headquartered_in, located_in"}
+{"k": "ba06c8ee6587e46c3fec6ae8afc4dced30be0ece", "v": "Company_0128 | works_for, headquartered_in, located_in, member_of"}
+{"k": "92c0cd9654176ce84e18babcd347319899e3efe0", "v": "Person_0070 | works_for, Company_0070 headquarters_located_in, City_0070 located_in, Country_0070 member_of"}
+{"k": "ea2d9fa8749bf8a2b36693cb661f8187b329bc54", "v": "Person_0110 | works_for, headquarters_in_city_located_in_country_member_of_bloc"}
+{"k": "8f6c9d60baabe519b5f805a7d0aa591c70b95444", "v": "Company_0090 | works_for, headquartered_in, located_in"}
+{"k": "6e0a035f2694407118ae02a27d837627f658bd33", "v": "Person_0030 | works_for, Company_Headquarters | headquartered_in, City.Headquartered_in.Country | located_in, member_of"}
+{"k": "9e09d37603e778107169c348e22039d2f3d2b23e", "v": "Company_0199 | works_for, headquartered_in, located_in"}
+{"k": "de99b081dfcbbf4a06cf86fa769c4c5a63b67aec", "v": "Person_0118 | works_for, headquarters_in, located_in, member_of"}
+{"k": "b6374c5a14b47f86a22e5a549744e1faf52f2e0d", "v": "UNKNOWN"}
+{"k": "2be307189bfcbc8d3f6cce795987c211a94751d1", "v": "Person_0071 | works_for, headquarters_in"}
+{"k": "0d8d1f483abacd1c5f495208eff46583046b058b", "v": "UNKNOWN"}
+{"k": "bff09b6e2f4a0f7e9b8b134da7266bdea278a87c", "v": "Company_0162 | headquartered_in, located_in"}
+{"k": "f2aa48ff29b1f42bf75a1ec245c47ed1ad29c4af", "v": "UNKNOWN"}
+{"k": "6a8177091ce7ca5e7178844b442fb39889518141", "v": "Company_0124 | works_for, headquartered_in, located_in, member_of"}
+{"k": "7d20740cfca087410f1266a1ad28f64e4fc2e7dd", "v": "Person_0065 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "77a4bff1dd503daa47ea41454ddc60910b8debf0", "v": "UNKNOWN"}
+{"k": "20708113f33db303308d2614339a37ec42d8b2ab", "v": "Person_0078 | works_for, headquarters_located_in, located_in"}
+{"k": "1d7b23a25b65158288187a8eb769107b02d04dea", "v": "UNKNOWN"}
+{"k": "08eee5dcd29f12344e944f43106a1122b3b83bbb", "v": "Company_0147 | works_for, headquartered_in, located_in, member_of"}
+{"k": "385dcd28fe5bf6d3985cb5f13a53e69c1fbe552c", "v": "Person_0018 | works_for, Company_0001 | headquartered_in, City_0001 | located_in, Country_0001 | member_of"}
+{"k": "0ad27e0a0ef3f93651299d63daf5f2f544da8d46", "v": "Person_0610 | works_for, headquarters_in, located_in"}
+{"k": "4b9621508f643eeb17f0a49ba1b3a1f96101a1ad", "v": "UNKNOWN"}
+{"k": "88383acce0c386ae58f987a685052d447994c127", "v": "City_0058 | located_in, member_of"}
+{"k": "e11b78046ed4bfbb01b130e9972e8cb062e771ea", "v": "UNKNOWN"}
+{"k": "aee0b74f3419d5e3439fae4fb20a067bca2864dc", "v": "Person_0617 | works_for, headquartered_in, located_in"}
+{"k": "eaae453a1d61ca7459b934eff1086d77c3451e9d", "v": "UNKNOWN"}
+{"k": "c9f69c0efad28e78e51ea8ef8f49916c100362f9", "v": "Person_0114 | works_for, headquarters_in_city_located_in, located_in"}
+{"k": "a3bfe7d453f96ea4c6bba09a837ba185b2b3eb01", "v": "UNKNOWN"}
+{"k": "613ecf4aabb3c5e269611acc4a29ced28b2ccd3b", "v": "Company_0155 | works_for, headquartered_in, located_in, member_of"}
+{"k": "59b30cc55b2ce096dc2dc139109e9982243dc487", "v": "Company_0029 | headquartered_in, located_in"}
+{"k": "b5ecdb6fa751274c8779a2b7c385a84bba18ce72", "v": "UNKNOWN"}
+{"k": "0dbc6ac0a7de6f92ee8d3925700e165a9fa58cee", "v": "UNKNOWN"}
+{"k": "4fe472ab0ef5b8e7f01b9927a5064ebbb235db61", "v": "UNKNOWN"}
+{"k": "bd8f0c5e4d373088bd4f19362afb8c8427d9daed", "v": "UNKNOWN"}
+{"k": "ac36229d8f26b828c4a23ed7763f524bf6882514", "v": "UNKNOWN"}
+{"k": "d72e8e64a6bcffcae7cf0236fe91e41d04da1d71", "v": "UNKNOWN"}
+{"k": "65c7ff2001a0cf24a08671d3f81242331dcd6401", "v": "UNKNOWN"}
+{"k": "247f47d7b899e0c7936bba0299c8849065181b17", "v": "UNKNOWN"}
+{"k": "2932a9e4d48e6b03be0841f960194ff0d706a967", "v": "UNKNOWN"}
+{"k": "186051f526314df1818e9df059d2473e71da3cba", "v": "UNKNOWN"}
+{"k": "a2b071f5eeac21f10dd1313555fa39d73539aced", "v": "UNKNOWN"}
+{"k": "d6b7a3eb56f28dab8ae747165a072aeafa48152f", "v": "UNKNOWN"}
+{"k": "b214dab96ec2afd87ea9ed15d9d6e62af16e2a2b", "v": "UNKNOWN"}
+{"k": "3f956bafe52f0d943a83136c7217a6b0b98aa6c8", "v": "UNKNOWN"}
+{"k": "5554bc2d8f4b0c134c1827f35447d4f6c88596b3", "v": "UNKNOWN"}
+{"k": "aeb82e52c59120e052c9931c2c6361b7c0ba61fc", "v": "UNKNOWN"}
+{"k": "8fcc5d6aea36a6d24bc89d4c2b040820d9932acb", "v": "UNKNOWN"}
+{"k": "d160f21a9da9733c6b57a03e9927a9ad22b2b1a0", "v": "UNKNOWN"}
+{"k": "5edbc4c56f260322e6a887be3be0eecc0c309081", "v": "UNKNOWN"}
+{"k": "608e7d6c3d4238ea1ee319523c3c66911651bd17", "v": "UNKNOWN"}
+{"k": "f571acb15915f6b88b7ecee612bf45440b70bb08", "v": "UNKNOWN"}
+{"k": "463975e54d3ffb3090b2e927d1b4f248cb21e083", "v": "UNKNOWN"}
+{"k": "4c5007e7949a75666d475240965b337455b21def", "v": "UNKNOWN"}
+{"k": "7ed717e96568a64497df550a0ae9b0885dfd46e9", "v": "UNKNOWN"}
+{"k": "2891c31bd19ee0a14943d2ce00c710b09239b67f", "v": "UNKNOWN"}
+{"k": "80a1090e6e45144674e3c773b82cc9d272f744a5", "v": "UNKNOWN"}
+{"k": "5341c1666c96e7a1a520421daafd3c26088c7938", "v": "UNKNOWN"}
+{"k": "8b7c248f7d7ffa672bdb41b918c8abeb858e9c3c", "v": "UNKNOWN"}
+{"k": "5e1aeafa47530a0dc9d79b0d564d5131296832e1", "v": "UNKNOWN"}
+{"k": "3b513d116cd47ca7fa8db16e6c3bbe75bde73004", "v": "UNKNOWN"}
+{"k": "53ad02df3b7ee5d910eea5382b68d66cb2ba8d64", "v": "Company_0087"}
+{"k": "f500196c2281f8c576567d5e7764f088b413d4f7", "v": "City_0112"}
+{"k": "d745243be921bb7c2200e872cb7d46404b418e1e", "v": "NONE"}
+{"k": "b5b37fcf10afd61435c62c97ecc57144f62baa0a", "v": "UNKNOWN"}
+{"k": "60b765fe99fa992c3dadda5bec8d8d2dcdcd5c52", "v": "NONE"}
+{"k": "fa57c3b325cfa0fa34c186a4fd179c6c7d5d16f6", "v": "Company_0015"}
+{"k": "a24483cf38f5c81be223f3ce0effbdd38afbe0b7", "v": "City_0019"}
+{"k": "a07e02273b4bf2efb99e5bed4bf8e2ecdf497aee", "v": "Country_0038"}
+{"k": "73b8abd1e36aac7dac7a1cec9c705580b8dede63", "v": "Bloc_0006"}
+{"k": "7a368b95f2596984f0467c617c4840ab9e288cec", "v": "Company_0142"}
+{"k": "7f2c6debff861777ae841b2f1093eda2984230d3", "v": "City_0001"}
+{"k": "078dbc7eedb28687513cc24d2cd051a50f58b384", "v": "Company_0174"}
+{"k": "26498b27ce5d60f681c38093c8095eae2eafd527", "v": "NONE"}
+{"k": "d676b25493196d35851e1ca67675b920d5e77f44", "v": "UNKNOWN"}
+{"k": "fda3a80dc985f11ad1e6f06f2ec894cd565a7642", "v": "Country_0003"}
+{"k": "eb8f79516195c95784561870083f09e5b4578e1c", "v": "NONE"}
+{"k": "3a316ea1a921eaa0d17c96a910f960614146afc5", "v": "UNKNOWN"}
+{"k": "302ffa2e7ec6253f545b767e242da976b9232510", "v": "City_0030"}
+{"k": "46642e20c7b33108e668df5eba327da1c86fc834", "v": "Country_0010"}
+{"k": "4a3bec8ffd8bd09186fd895db47c2d43332aa5c9", "v": "Company_0053"}
+{"k": "48bd7fe9383e9f6a02647e1281d8e0f4a5b13528", "v": "City_0091"}
+{"k": "39c42979e02c1837faed6e319f32ba098e493fb0", "v": "Country_0052"}
+{"k": "4a30b70245966bfdd6b87e1dc96ca7677418b120", "v": "Bloc_0001"}
+{"k": "21bb2448ed856e6834cda25132293c0dcb2d3b16", "v": "Company_0174"}
+{"k": "c9cec5550f5b3943cc8e4efc40135cd92c294ee0", "v": "Company_0190"}
+{"k": "e6d8796708b6925d3a9f4e44e37c8b2c2598efd6", "v": "NONE"}
+{"k": "0a5b37ac143a504df792f7c151698b5e6cf7fc25", "v": "UNKNOWN"}
+{"k": "80510a90c659777be02b2ac79139113a0d2f4877", "v": "Company_0185"}
+{"k": "04ecfa94e3086c6adff30f313aadb3ca97f39a4f", "v": "NONE"}
+{"k": "a3a09bbd90e24500e0976e261e05f4676b62c37f", "v": "UNKNOWN"}
+{"k": "e9256bde929df64f1d8cfa6bf4b589846b9135a5", "v": "NONE"}
+{"k": "cb1f568a763a573970a49b69ec493f032ac7d034", "v": "Company_0127"}
+{"k": "7ba65cfa6e5a50433086d798e0f58c0510364b92", "v": "City_0048"}
+{"k": "544a5cfdc17b203ea2515bf885f0d33f78359fb4", "v": "Country_0004"}
+{"k": "8dfa0e41600fd023cf931e7742eb5165d7b33509", "v": "Company_0007"}
+{"k": "95f7d5b142006def78346b71dbaca121249babf7", "v": "City_0065"}
+{"k": "c6852b82b68834f66bac794f65902e786acdb408", "v": "Country_0065"}
+{"k": "7510f39e6621b2fe4c9766421df14064458ce2a4", "v": "UNKNOWN"}
+{"k": "cbb2021a938d349f3d3c54ba72841f52dc7954b1", "v": "Company_0155"}
+{"k": "6e2723ad8c0052277f42fe6615281f7d709c1d6a", "v": "NONE"}
+{"k": "b4a69a841ecc725601f1e4b6f14f15810ce460f2", "v": "UNKNOWN"}
+{"k": "b18f8184e1e93ce5d0a04527642fb4cb48cd3f6a", "v": "Company_0143"}
+{"k": "03f61196dcb15b1d8b03bbd463021df556d2ae2e", "v": "City_0069"}
+{"k": "67d80261f9fe9540ea1a04172cf2e6b3038c5234", "v": "NONE"}
+{"k": "7567bc079060b7250e975ec187ad658a8c0d7a8e", "v": "NONE"}
+{"k": "1e2fa93c9ca5c741435fa01492908058d8a2af05", "v": "Company_0093"}
+{"k": "62ec7811de9c4c0b958e30e628bd889a41bc2516", "v": "NONE"}
+{"k": "f621898909e1e7d999da04e77684e8ab58677c7b", "v": "UNKNOWN"}
+{"k": "0ac43104e50cf9a8ebf94185effd481e3c64df78", "v": "Company_0083"}
+{"k": "6e554968a190de8340e519af6b481dcc31d81a39", "v": "City_0105"}
+{"k": "277b5b6461fd059fc05fb2fd40fd699bb42860f5", "v": "NONE"}
+{"k": "21e92147caa3688905e7e14be779c8fafb577119", "v": "NONE"}
+{"k": "bc2a6faebea4aee97cf4dae1edb153ce17287be3", "v": "Country_0053"}
+{"k": "ef94b339270324c729fb9d0ba27c43ce2b95b7c7", "v": "NONE"}
+{"k": "a3577885bfbc1beb36edcb8232bd4e412b79ad1e", "v": "UNKNOWN"}
+{"k": "134ecc4df916e271b29a023f6a6ec54fa8428a80", "v": "NONE"}
+{"k": "d31a93793846b9731e810170687a9245a8e4fea5", "v": "NONE"}
+{"k": "921b8847e90e41db56bc7e614f196842e536600d", "v": "Company_0000"}
+{"k": "b6bc9aa79ea267652f5334895eb76dec864f05e6", "v": "City_0083"}
+{"k": "0010d18577baec8a7a4018ca3a48975ef372ee99", "v": "City_0018"}
+{"k": "1a15b42aaff6555744e1cb54f6eb1f86fc6fc63e", "v": "NONE"}
+{"k": "6fc9b3f8b41675b353820128987226e559e4c6e1", "v": "Company_0189"}
+{"k": "34b200cc7a87dde30a164d9cf829c888ed6c8104", "v": "City_0108"}
+{"k": "a794e75f31cf7a5c327f17e2a3245c4407daa1bc", "v": "Country_0013"}
+{"k": "cf3b1c26d5eae33372599c911f5e09ebf9c698a4", "v": "Company_0118"}
+{"k": "70524b87ad71a8ef0c7986b17f7704d60214580b", "v": "City_0115"}
+{"k": "24aa5812abcdcfe4480f5300088ebf6494aae9c4", "v": "Country_0054\nCountry_0021"}
+{"k": "a2de6ab4b5338bfb78dfd4fc59790bad34a9dd8b", "v": "NONE"}
+{"k": "d5dba7bfd7567e8836bf2dbfdd4037ed285123b1", "v": "NONE"}
+{"k": "f45aab3f851110e132b0bb1596d5ac3d13cd9655", "v": "NONE"}
+{"k": "8d7cb27526cfa72063d8bcd049bee9a9f44dfbeb", "v": "City_0014"}
+{"k": "2fac320b3c2bf1315144ef776ff2f983be5eb740", "v": "Country_0055"}
+{"k": "31ce6ade8613ef644db4da6c86fd0670dc244e8a", "v": "UNKNOWN"}
+{"k": "1f044e9a88b07cb8d88c23e1de4eec1ac2fe0210", "v": "UNKNOWN"}
+{"k": "e1d2277be6f1a4d036600861786cf67ae482386d", "v": "UNKNOWN"}
+{"k": "d3bb149c7e12951c83b82b60592648b737c9a77d", "v": "UNKNOWN"}
+{"k": "f02933c4a3accf8abaf6e8c229f86e4e4855dab1", "v": "Bloc_0016"}
